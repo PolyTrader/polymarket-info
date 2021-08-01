@@ -8,3 +8,4 @@
 0xcf5cea15e49b33b70a0bef2d42a46425c54c80a1 - iabvek
 0x4ab9b54427ec4b7f3646b1a0ef1bed73bc708ebe - TarasBob
 0x180d6a5314a34bcb5a8367611667fa04bbe5804a - Coby
+0x4f70929ba287ac85dc2431c85382ccd9e6b0d185 - JonH (Ravens Slayer#6707)
