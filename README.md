@@ -5,6 +5,7 @@ Collection of links and other miscellaneous data about Polymarket
 ### 3rd Party Polymarket Analysis
 * https://polystats.info/
 * https://polymarketwhales.info/
+* https://markets.electionata.com/
 
 ### Blog Postings
 * [Polymarket Medium Posts](https://polymarket.medium.com/)
