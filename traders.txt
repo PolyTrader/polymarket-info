@@ -19,3 +19,4 @@
 0x4cc3522b689a6bf1fb4a2444c523e7776db47552 - CrunchWrapSupreme
 0x85865b087edb50cc5baee15133f789907615dd23 - ExogenyKarl
 0xe345d9287b8f96ec778d1616aa85d35f499e07c3 - ChuChuTrain
+0x419cb2ea4af5328225a4b1f6fda0f7784bda29e9 - Rainbow Jeremy
