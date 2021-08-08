@@ -2,6 +2,11 @@
 Collection of links and other miscellaneous data about Polymarket
 
 ---
+### Polymarket Links
+* https://strapi-matic.poly.market/markets?_limit=-1&closed=false
+  * Polymarket Market data in json format
+* https://github.com/Polymarket/polymarket-sdk
+
 ### 3rd Party Polymarket Analysis
 * https://polystats.info/
 * https://polymarketwhales.info/
