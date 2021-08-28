@@ -22,5 +22,8 @@
 0x419cb2ea4af5328225a4b1f6fda0f7784bda29e9 - Rainbow Jeremy
 0x903221b1098263779ae19486028c844e8c338717 - Crain*
 0x57ea53b3cf624d1030b2d5f62ca93f249adc95ba - Exhibit
+0xaaf4acafbb7980ce93631d238eb10a5c4ca67883 - squee
+0x6a71085ebf150090fdd3dda4ddc1e8fa4c36a0f5 - Synth
+0xe19fed9e7bb6f101772bae3db1de3470eed42069 - Sarah
 
 * Allegedly
