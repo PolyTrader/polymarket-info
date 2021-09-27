@@ -21,6 +21,9 @@ Collection of links and other miscellaneous data about Polymarket
 * Polymarket smart contracts are based on work done by [gnosis.io](https://gnosis.io)
 * You can review detailed docs on how the prediction contracts operate [here](https://docs.gnosis.io/conditionaltokens/)
 
+### Videos
+ * [How to deposit to your Polymarket account for (virtually) free!](https://www.youtube.com/watch?v=AB6q1RDd5Mk)
+
 ### FAQ
 * How does Polymarket make money?
   * Trade Secret. (Seriously? Yes - Polymarket has not publicly revealed its revenue strategy. However, it has received VC funding. In the current market, VC's do not invest invest in companies without a revenue plan, so a reveue strategy is assumed to exist.) 
